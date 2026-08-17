@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "customer_name": "Alice",
+    "brand": "Apple",
+    "product": "Laptop",
+    "rating": 5,
+    "feedback": "Excellent service and fast delivery.",
+    "date": "2026-08-01"
+  },
+  {
+    "id": 2,
+    "customer_name": "Bob",
+    "brand": "Apple",
+    "product": "Mouse",
+    "rating": 4,
+    "feedback": "Product quality is good.",
+    "date": "2026-08-02"
+  },
+  {
+    "id": 3,
+    "customer_name": "Charlie",
+    "brand": "Samsung",
+    "product": "Keyboard",
+    "rating": 1,
+    "feedback": "Poor quality.",
+    "date": "2026-08-03"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "customer_name": "Alice",
+    "rating": 5,
+    "feedback": "Excellent service and fast delivery.",
+    "product": "Laptop",
+    "date": "2026-08-01"
+  },
+  {
+    "id": 2,
+    "customer_name": "Bob",
+    "rating": 4,
+    "feedback": "Product quality is good.",
+    "product": "Mouse",
+    "date": "2026-08-02"
+  },
+  {
+    "id": 3,
+    "customer_name": "Charlie",
+    "rating": 1,
+    "feedback": "Poor quality.",
+    "product": "Keyboard",
+    "date": "2026-08-03"
+  }
+]
